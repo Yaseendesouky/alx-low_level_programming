@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFEILE -o c
+gcc -E $CFEILE > c
